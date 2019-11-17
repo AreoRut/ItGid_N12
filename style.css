@@ -1,0 +1,55 @@
+h1,h2{
+	margin-bottom: 0px;
+    text-align: center;
+    font:sans-serif;
+    }
+    h1{
+        
+        font-size:36px;
+        font: normal  30px/15px consolas;
+
+    }
+    h2{
+        font-size:30px;
+    }
+    p{
+        font:normal 22px/15px consolas;
+    }
+    #out{
+        text-align: center;
+        font-size:30px;
+    }
+    .red { color: red; }
+    .blue { color: blue; }
+    
+    div{
+        font-family: 'Courier New', Courier, monospace;
+        margin-bottom: 20px;
+    }
+.one{
+    background: bisque;
+}
+.one1{
+    background: yellow;
+}
+.two{
+    background: orange;
+}
+.three{
+    border: 2px  solid blue;
+}
+.one3{
+    background: green;
+
+}
+.one4{
+    background: hotpink;
+}
+.stg{
+    background:greenyellow;
+}
+#out1{
+    background: rgb(212, 200, 212);
+    text-align: center;
+
+}
